@@ -12,5 +12,5 @@ This workshop helps cybersecurity students understand the entry-level job market
 - Workshop slides
 
 ## Contact
-E-mail: angelodantas@cyberflorida.org
+E-mail: angelodantas@cyberflorida.org / michelleangelodantas@gmail.com
 LinkedIn: linkedin.com/in/michelleangelo-rocha
