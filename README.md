@@ -21,7 +21,7 @@ How to use it:
 I created this worksheet for my workshop, but anyone can use it.
 
 ## How I made this
-I designed the content of this workshop from my research and my conversations with employers and students. I used Claude, an AI assistant, as a tool to help me build the slides, the worksheet, and this visual, and to practice my talk. The ideas and the decisions are mine. This is the same message I share with students: use AI to help you, not to think for you.
+I designed the content of this workshop from my research and my conversations with employers and students. I used Claude, an AI assistant, as a tool to help me build the worksheet, and this visual, and to practice my talk. The ideas and the decisions are mine. This is the same message I share with students: use AI as a tool to help you, not to think for you.
 
 ## License
 These materials are licensed under CC BY-NC 4.0. You are free to share and adapt them with credit, but not for sale.
